@@ -1,6 +1,6 @@
 # cf-agent-stacks-x402
 
-A Cloudflare Agents SDK starter where every agent has its **own Stacks wallet** and can both **charge** and **pay** in sBTC over x402. It is built on [`x402-stacks-agents`](../../packages/x402-stacks-agents). Payments settle through the aibtc x402 relay. They are self-paid, so an agent wallet needs sBTC to pay with plus a little STX for fees.
+A Cloudflare Agents SDK starter where every agent has its **own Stacks wallet** and can both **charge** and **pay** in sBTC over x402. It is built on [`@aibtc/x402-stacks-agents`](../../packages/x402-stacks-agents). Payments settle through the aibtc x402 relay. They are self-paid, so an agent wallet needs sBTC to pay with plus a little STX for fees.
 
 | Piece | What it shows |
 |---|---|
